@@ -1,0 +1,21 @@
+required packages list
+numpy
+pandas
+os
+glob
+json
+matplotlib
+tqdm
+langdetect
+pprint
+nltk
+sentence_transformers
+random
+scipy
+paperai
+txtai
+wordcloud
+pycountry
+
+required document list
+df_covid.csv
